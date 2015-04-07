@@ -1,9 +1,0 @@
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
-C:\Users\SteKay1210A\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.VBHelloWorld.resources

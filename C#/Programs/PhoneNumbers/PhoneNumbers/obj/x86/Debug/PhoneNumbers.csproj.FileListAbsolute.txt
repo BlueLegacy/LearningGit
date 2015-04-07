@@ -1,5 +1,0 @@
-U:\C#\Programs\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.exe
-U:\C#\Programs\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.pdb
-U:\C#\Programs\PhoneNumbers\PhoneNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
-U:\C#\Programs\PhoneNumbers\PhoneNumbers\obj\x86\Debug\PhoneNumbers.exe
-U:\C#\Programs\PhoneNumbers\PhoneNumbers\obj\x86\Debug\PhoneNumbers.pdb

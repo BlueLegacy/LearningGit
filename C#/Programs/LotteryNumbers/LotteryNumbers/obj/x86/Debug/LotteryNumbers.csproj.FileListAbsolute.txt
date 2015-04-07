@@ -1,5 +1,0 @@
-U:\C#\Programs\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.exe
-U:\C#\Programs\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.pdb
-U:\C#\Programs\LotteryNumbers\LotteryNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
-U:\C#\Programs\LotteryNumbers\LotteryNumbers\obj\x86\Debug\LotteryNumbers.exe
-U:\C#\Programs\LotteryNumbers\LotteryNumbers\obj\x86\Debug\LotteryNumbers.pdb
