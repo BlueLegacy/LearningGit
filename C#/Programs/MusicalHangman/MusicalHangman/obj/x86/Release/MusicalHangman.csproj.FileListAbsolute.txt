@@ -1,0 +1,5 @@
+U:\C#\Programs\MusicalHangman\MusicalHangman\bin\Release\MusicalHangman.exe
+U:\C#\Programs\MusicalHangman\MusicalHangman\bin\Release\MusicalHangman.pdb
+U:\C#\Programs\MusicalHangman\MusicalHangman\obj\x86\Release\ResolveAssemblyReference.cache
+U:\C#\Programs\MusicalHangman\MusicalHangman\obj\x86\Release\MusicalHangman.exe
+U:\C#\Programs\MusicalHangman\MusicalHangman\obj\x86\Release\MusicalHangman.pdb

@@ -1,0 +1,5 @@
+U:\C#\PenniesWhileLoop\PenniesWhileLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\PenniesWhileLoop\PenniesWhileLoop\bin\Debug\PenniesWhileLoop.exe
+U:\C#\PenniesWhileLoop\PenniesWhileLoop\bin\Debug\PenniesWhileLoop.pdb
+U:\C#\PenniesWhileLoop\PenniesWhileLoop\obj\x86\Debug\PenniesWhileLoop.exe
+U:\C#\PenniesWhileLoop\PenniesWhileLoop\obj\x86\Debug\PenniesWhileLoop.pdb

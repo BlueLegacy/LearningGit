@@ -1,0 +1,7 @@
+U:\C#\Method2\Method2\bin\Debug\Method2.exe
+U:\C#\Method2\Method2\bin\Debug\Method2.pdb
+U:\C#\Method2\Method2\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\Method2\Method2\obj\x86\Debug\Method2.exe
+U:\C#\Method2\Method2\obj\x86\Debug\Method2.pdb
+U:\C#\Tutorials\Method2\Method2\obj\x86\Debug\Method2.exe
+U:\C#\Tutorials\Method2\Method2\obj\x86\Debug\Method2.pdb

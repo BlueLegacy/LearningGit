@@ -1,0 +1,5 @@
+U:\C#\DoWhile\DoWhile\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+U:\C#\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+U:\C#\DoWhile\DoWhile\obj\x86\Debug\DoWhile.exe
+U:\C#\DoWhile\DoWhile\obj\x86\Debug\DoWhile.pdb

@@ -1,0 +1,5 @@
+U:\C#\Programs\SystemIOTest\SystemIOTest\bin\Debug\SystemIOTest.exe
+U:\C#\Programs\SystemIOTest\SystemIOTest\bin\Debug\SystemIOTest.pdb
+U:\C#\Programs\SystemIOTest\SystemIOTest\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\Programs\SystemIOTest\SystemIOTest\obj\x86\Debug\SystemIOTest.exe
+U:\C#\Programs\SystemIOTest\SystemIOTest\obj\x86\Debug\SystemIOTest.pdb

@@ -1,0 +1,5 @@
+U:\C#\Tutorials\SportFunctions\SportFunctions\bin\Debug\SportFunctions.exe
+U:\C#\Tutorials\SportFunctions\SportFunctions\bin\Debug\SportFunctions.pdb
+U:\C#\Tutorials\SportFunctions\SportFunctions\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\Tutorials\SportFunctions\SportFunctions\obj\x86\Debug\SportFunctions.exe
+U:\C#\Tutorials\SportFunctions\SportFunctions\obj\x86\Debug\SportFunctions.pdb

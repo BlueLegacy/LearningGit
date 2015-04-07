@@ -1,0 +1,14 @@
+C:\Users\SteKay1210A\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\SteKay1210A\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\SteKay1210A\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\SteKay1210A\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\SteKay1210A\Desktop\C#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\SteKay1210A\Desktop\C#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\SteKay1210A\Desktop\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\SteKay1210A\Desktop\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+U:\C#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+U:\C#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+U:\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+U:\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+U:\C#\Tutorials\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+U:\C#\Tutorials\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb

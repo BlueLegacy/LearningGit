@@ -1,0 +1,5 @@
+U:\C#\Programs\Array\Array\bin\Debug\Array.exe
+U:\C#\Programs\Array\Array\bin\Debug\Array.pdb
+U:\C#\Programs\Array\Array\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\Programs\Array\Array\obj\x86\Debug\Array.exe
+U:\C#\Programs\Array\Array\obj\x86\Debug\Array.pdb

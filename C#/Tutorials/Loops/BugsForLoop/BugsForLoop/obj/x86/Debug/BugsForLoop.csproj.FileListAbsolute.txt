@@ -1,0 +1,5 @@
+U:\C#\BugsForLoop\BugsForLoop\bin\Debug\BugsForLoop.exe
+U:\C#\BugsForLoop\BugsForLoop\bin\Debug\BugsForLoop.pdb
+U:\C#\BugsForLoop\BugsForLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\BugsForLoop\BugsForLoop\obj\x86\Debug\BugsForLoop.exe
+U:\C#\BugsForLoop\BugsForLoop\obj\x86\Debug\BugsForLoop.pdb

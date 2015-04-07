@@ -1,0 +1,5 @@
+U:\C#\NumbersAndParse\NumbersAndParse\bin\Debug\NumbersAndParse.exe
+U:\C#\NumbersAndParse\NumbersAndParse\bin\Debug\NumbersAndParse.pdb
+U:\C#\NumbersAndParse\NumbersAndParse\obj\x86\Debug\NumbersAndParse.exe
+U:\C#\NumbersAndParse\NumbersAndParse\obj\x86\Debug\NumbersAndParse.pdb
+U:\C#\NumbersAndParse\NumbersAndParse\obj\x86\Debug\ResolveAssemblyReference.cache
